@@ -15,7 +15,6 @@ print(logo_hangman)
 
 # choosing random word
 chosen_word = random.choice(word_list)
-print(chosen_word)
 
 # making of the _ logic
 placeholder = ""
