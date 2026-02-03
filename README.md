@@ -24,7 +24,7 @@ The game focuses on robust backend logic rather than visual UI, utilizing Python
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/interactive-hangman-engine.git
+   git clone https://github.com/ProRajeevK/interactive-hangman-engine.git
    ```
 
 2. **Navigate into the directory**
@@ -35,7 +35,7 @@ The game focuses on robust backend logic rather than visual UI, utilizing Python
 3. **Run the Python script**
    Ensure you have Python 3.x installed.
    ```bash
-   python hangman.py
+   python main.py
    ```
 
 ## 📸 Gameplay Preview
